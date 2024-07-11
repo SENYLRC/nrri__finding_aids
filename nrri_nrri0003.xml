@@ -1,0 +1,503 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nrri">nrri_nrri0003</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Ed Benguiat collection</titleproper>
+                <author>Lauren Alberque</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2018-03-26">March 26, 2018</date>
+                <publisher>Rochester Institute of Technology</publisher>
+                <address>
+                    <addressline>RIT Libraries</addressline>
+                    <addressline>90 Lomb Memorial Drive</addressline>
+                    <addressline>Rochester, NY 14623</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by Ella von Holtum.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Ed Benguiat collection</unittitle>
+            <unitdate normal="1953/2001" type="inclusive">1953 - 2001</unitdate>
+            <abstract>The Ed Benguiat Collection contains original sketches, phototypesetting materials such as photographic prints and negatives, and printed materials relating to the design, production, and promotion of typefaces generated or accumulated during the life and career of type designer, Ed Benguiat. The collection contains objects dating from 1953 to 2001. The collection is organized into two series: I. Graphic Work, and II. Typefaces. The first series contains printed and design work for logos and newspapers, promotional materials such as posters and booklets, or in-progress work such as sketches and paste-ups. The second series contains materials related to the designing and production of specific typefaces, predominately photographic negatives and transparencies, paste-ups, and type specimens.</abstract>
+            <physdesc>
+                <extent>33 Linear Feet</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Benguiat, Ed</persname>
+            </origination>
+            <repository>
+                <corpname>Cary Graphic Arts Collection</corpname>
+                <subarea>Graphic Design Archive</subarea>
+            </repository>
+        </did>
+        <arrangement>
+            <p>Collection is organized into two series: I. Graphic Work (circa 1953 - 1990); II. Typefaces (circa 1960 - 2001). The collection is arranged first by genre, typeface alphabetically, by type style and weight, and then medium.</p>
+        </arrangement>
+        <prefercite>
+            <p>Ed Benguiat Collection, Cary Graphic Arts Collection, RIT.</p>
+        </prefercite>
+        <bibliography>
+            <bibref>"Edward Benguiat. Biography of Ed Benguiat. Written by Elisa Halperin: Art Directors Club, 2000.</bibref>
+            <bibref>"Edward Ephram Benguiat. List of Benguiat's typefaces. Klingspor Museum, 2008.</bibref>
+        </bibliography>
+        <accessrestrict>
+            <p>Portions of this collection may not be reproduced. Please consult the curator.</p>
+        </accessrestrict>
+        <bioghist>
+            <p>Ephram Edward Benguiat was born in Brooklyn, New York, on October 27th, 1927. After serving time in the Air Corps during World War II, he returned home to New York and became an established jazz percussionist. He soon enrolled at the Workshop School of Advertising Art in New York City under Paul Standard, where he studied layout, design, typography, and calligraphy. In 1953, he became the associate director of Esquire magazine, whose logo he designed. In 1962 he met Ed Rondthaler, and joined Photo-Lettering, Inc. as their Typographic Design Director. During his time at Photo-Lettering, he also acted as editor of their promotional publication, PLINC, and produced over 400 typefaces for the phototypesetting firm. In 1971, Rondthaler, along with Herb Lubalin and Aaron Burns, founded the International Typeface Corporation, and contracted Benguiat for their first typeface&#x2014;Souvenir. Benguiat and Lubalin partnered to develop ITC&#x2019;s magazine, U&amp;lc, and continued to produce new typefaces to add to the ITC repertoire. Benguiat served as vice president of ITC until 1986. </p>
+            <p>Ed Benguiat has designed over 600 typefaces including Bookman, Benguiat, Benguiat Gothic, Panache, Tiffany, Barcelona, handtooled versions of Century, Cheltenham, and Garamond, and the logotypes for brands and publications including The New York Times, Coca-cola, Playboy, Reader&#x2019;s Digest, Sports Illustrated, Photoplay, and Look magazine. He has served as president of the Type Directors Club, and was awarded their TDC Medal in 1989. Benguiat is also a member of the Alliance Graphique Internationale. He later taught at The School of Visual Arts in New York, where he was awarded Teacher of the Year in 1995.</p>
+        </bioghist>
+        <controlaccess>
+            <persname>Carnase, Tom</persname>
+            <persname>Lubalin, Herb</persname>
+            <persname>Burns, Aaron</persname>
+            <persname>Caruso, Victor</persname>
+            <persname>Rondthaler, Edward</persname>
+            <genreform>Paste-up (printing)</genreform>
+            <genreform authfilenumber="300055118" source="aat">mechanicals (camera-ready copy)</genreform>
+            <genreform authfilenumber="300194389" source="aat">typefaces (type forms)</genreform>
+            <genreform authfilenumber="300201018" source="aat">type specimens (documents)</genreform>
+            <name>Type Directors Club of New York</name>
+            <name>Field and Stream</name>
+            <name>McCall's magazine</name>
+            <name>Look magazine</name>
+            <name>Museum of Television and Radio (New York, N.Y.)</name>
+            <name>New York Times</name>
+            <name>Photo-Lettering Inc</name>
+            <name>Lincoln Center for the Performing Arts</name>
+            <name>International Typeface Corporation</name>
+            <name>Esquire, inc</name>
+            <genreform authfilenumber="300127173" source="aat">negatives (photographs)</genreform>
+            <genreform authfilenumber="300202354" source="aat">script (typeface group)</genreform>
+            <genreform authfilenumber="300161638" source="aat">black-and-white prints (prints on paper)</genreform>
+            <genreform authfilenumber="300041379" source="aat">lithographs</genreform>
+            <subject>Publications</subject>
+            <subject>Type and type-founding</subject>
+            <subject>Magazine covers -- United States -- History -- 20th century.</subject>
+            <subject>Newspapers</subject>
+            <subject>Design</subject>
+            <subject>Graphic design</subject>
+            <subject>Logos (Symbols) -- United States -- History -- 20th century</subject>
+            <subject>Type designers</subject>
+            <subject>Graphic designers -- United States</subject>
+            <subject>Type and type-founding -- Design.</subject>
+            <subject>Roman type -- Specimens</subject>
+            <subject>Script type -- Specimens</subject>
+            <subject>Advertising</subject>
+            <subject>Graphic design -- 1950-1980</subject>
+            <subject>Typographers</subject>
+            <genreform authfilenumber="300128355" source="aat">black-and-white transparencies</genreform>
+            <genreform authfilenumber="300015617" source="aat">sketches</genreform>
+            <genreform authfilenumber="300028715" source="aat">logos</genreform>
+            <genreform authfilenumber="300224774" source="aat">logotypes</genreform>
+            <genreform authfilenumber="300195853" source="aat">typography</genreform>
+            <subject>Phototypesetting</subject>
+            <subject>Type and type-founding -- United States -- History -- 20th century</subject>
+            <subject>Photostat</subject>
+            <subject>Drawings</subject>
+        </controlaccess>
+        <scopecontent>
+            <p>The Ed Benguiat Collection contains design and development work on typefaces designed by Benguiat, as well as logos for clients, ranging from 1953 to 2001. Materials include original sketches for type and logo design; large sheet negatives, transparencies, and paste-ups for published and unpublished typefaces; type specimen catalogues and posters; and negatives and mock-ups for logos and newspapers, including The New York Times. Material pertains to Benguiat and his affiliated businesses, namely International Typeface Corporation and Photo-Lettering, Incorporated, with some work produced for the Type Directors Club. Predominate holdings include: ITC Barcelona, ITC Benguiat, ITC Bookman, and ITC Edwardian.</p>
+        </scopecontent>
+        <userestrict>
+            <p>This collection is open to researchers.</p>
+        </userestrict>
+        <dsc>
+            <c id="c_76ae53790ef4d45a329653d07b8307cd" level="series">
+                <did>
+                    <unittitle>Graphic Work</unittitle>
+                    <unitdate normal="1948/1995">1948 - 1995</unitdate>
+                </did>
+                <c id="c_70d28da1513c807f70288dae6ae5dd6e" level="subseries">
+                    <did>
+                        <unittitle>Graphic Pieces</unittitle>
+                        <unitdate normal="1948/1994">1948 - 1994</unitdate>
+                    </did>
+                    <c id="c_b8fd8aaee8184e1b162dea3e6ce16dda" level="file">
+                        <did>
+                            <unittitle> Borders</unittitle>
+                            <unitdate normal="1955/1995">1955 - 1995</unitdate>
+                        </did>
+                        <c id="c_012b43bc0a221bd10a2e3c76b62300f4" level="file">
+                            <did>
+                                <unittitle>Border Negatives</unittitle>
+                                <unitdate normal="1955/1995">1955 - 1995</unitdate>
+                            </did>
+                        </c>
+                        <c id="c_bb8be0bbf4dca02305c7b4a7a358918d" level="file">
+                            <did>
+                                <unittitle>Border Prints</unittitle>
+                                <unitdate normal="1955/1995">1955 - 1995</unitdate>
+                            </did>
+                        </c>
+                    </c>
+                    <c id="c_deb9dd35ef4af0e03c485d9d2549ad64" level="file">
+                        <did>
+                            <unittitle> Magazine cover mockups; Field &amp; Stream, Look, and McCall's</unittitle>
+                            <unitdate normal="1958/1989">1958 - 1989</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_ce5026a14a15aa82d4d0f141f8f2562d" level="file">
+                        <did>
+                            <unittitle> PLINC Famous Type Designer Sketches &amp; Benguiat Quote Poster</unittitle>
+                            <unitdate certainty="approximate">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_cb76f12027ddaca269e412cea2cfc3c0" level="file">
+                        <did>
+                            <unittitle>Publications: Other Side of the Coin Pamphlet, PLINC: A Typographic Journey</unittitle>
+                            <unitdate normal="1970/1990">1970 - 1990</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_7c484f171fc622cfea80135a7e096932" level="file">
+                        <did>
+                            <unittitle>Serif Structures &amp; Serif Alphabet</unittitle>
+                            <unitdate certainty="approximate">undated</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_68eea4f91301c0ddfc0793fc69736b19" level="subseries">
+                    <did>
+                        <unittitle>Logos</unittitle>
+                        <unitdate normal="1948/2001">1948 - 2001</unitdate>
+                    </did>
+                    <c id="c_2fe545ba5a621a950576317c3a8cf19d" level="file">
+                        <did>
+                            <unittitle>Barcelona Olympics '92, negatives and pasteups</unittitle>
+                            <unitdate normal="1982/1992">1982 - 1992</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_001e1962126e69fdbca907d87c716faa" level="file">
+                        <did>
+                            <unittitle> Letterform Anatomy Poster Lithograph &amp; Negatives</unittitle>
+                            <unitdate certainty="approximate">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_d9bf7b0b5253249cf2e1f8dd319e1d68" level="file">
+                        <did>
+                            <unittitle> Lincoln Center Logo</unittitle>
+                            <unitdate normal="1991/2001">1991 - 2001</unitdate>
+                        </did>
+                        <c id="c_da19117413b2804ac63d773f39f17513" level="file">
+                            <did>
+                                <unittitle> Lincoln Center Logo Concept Drawings</unittitle>
+                                <unitdate normal="1996/2006">1996 - 2006</unitdate>
+                            </did>
+                        </c>
+                        <c id="c_2282565aff33f792b149e775e432b073" level="file">
+                            <did>
+                                <unittitle> Lincoln Center Logo Negatives</unittitle>
+                                <unitdate normal="2001">2001</unitdate>
+                            </did>
+                        </c>
+                        <c id="c_dd956c31e4eb12990f528a3e78216b67" level="file">
+                            <did>
+                                <unittitle> Lincoln Center Logo Prints</unittitle>
+                                <unitdate normal="2001">2001</unitdate>
+                            </did>
+                        </c>
+                    </c>
+                    <c id="c_373b7e920a61417388785cbd0154d7b0" level="file">
+                        <did>
+                            <unittitle> Logo process work</unittitle>
+                            <unitdate normal="1948/2001">1948 - 2001</unitdate>
+                        </did>
+                        <c id="c_dbc3c58896cb763d8e3b0d0b4eeef311" level="file">
+                            <did>
+                                <unittitle> Logo Negatives; Alphabets &amp; Images, Benguiat consultation advertisement, Cliff Freeman and Partners, Forbes, ITC clock logo, Lincoln Park Aviation, McCall&#x2019;s, MR&amp;T, PLINC, Type Directors Club, Village East/West</unittitle>
+                                <unitdate normal="1955/1990">1955 - 1990</unitdate>
+                            </did>
+                        </c>
+                        <c id="c_44919845fc5d73bb79496a3f7839fd93" level="file">
+                            <did>
+                                <unittitle> Logos Prints; Esquire, McCall's, New York Orient Express, TGI logo bag, and Miscellaneous</unittitle>
+                                <unitdate normal="1948/1995">1948 - 1995</unitdate>
+                            </did>
+                        </c>
+                        <c id="c_4b2efd38244e336ca5d165acb16eed1a" level="file">
+                            <did>
+                                <unittitle> Logo Sketches; 21,Cooper Union, Eileen Hedy Shultz, Peter Cooper, PL&amp;H</unittitle>
+                                <unitdate normal="1948/1995">1948 - 1995</unitdate>
+                            </did>
+                        </c>
+                    </c>
+                </c>
+                <c id="c_5b3ff32395e320c26a411f54f3fd476b" level="subseries">
+                    <did>
+                        <unittitle>Newspapers</unittitle>
+                        <unitdate normal="1961/1989">1961 - 1989</unitdate>
+                    </did>
+                    <c id="c_5a5a426fe19a0b226658aebe9f5a7ce1" level="file">
+                        <did>
+                            <unittitle> Newspaper Masthead Negatives; The New York Times, Star Ledger</unittitle>
+                            <unitdate normal="1961/1994">1961 - 1994</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_b849aa45d3ad86419f6c1581964002a4" level="file">
+                        <did>
+                            <unittitle> Newspaper Masthead Sketches, Layouts; The New York Times, Star Ledger</unittitle>
+                            <unitdate normal="1961/1994">1961 - 1994</unitdate>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c id="c_a5a6b854b73ec485823fb73c55c10745" level="series">
+                <did>
+                    <unittitle>Typefaces</unittitle>
+                    <unitdate normal="1955/2001">1955 - 2001</unitdate>
+                </did>
+                <c id="c_e2bbe0fb36e69456229892ca6baa8eda" level="subseries">
+                    <did>
+                        <unittitle>Typeface Designs</unittitle>
+                        <unitdate normal="1955/1999">1955 - 1999</unitdate>
+                    </did>
+                    <c id="c_1ed559372b5e887983dd4d572cee00cd" level="file">
+                        <did>
+                            <unittitle>ITC American Typewriter</unittitle>
+                            <unitdate normal="1984/1994">1984 - 1994</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_7c80ffa9a653afe94b0630417bdcb643" level="file">
+                        <did>
+                            <unittitle>ITC Barcelona</unittitle>
+                            <unitdate normal="1976/1986">1976 - 1986</unitdate>
+                        </did>
+                        <scopecontent>
+                            <list>
+                                <item>ITC Barcelona Roman Negatives</item>
+                                <item> ITC Barcelona Italics Negatives</item>
+                                <item> ITC Barcelona Paste-Ups</item>
+                                <item>ITC Barcelona Sketches</item>
+                            </list>
+                        </scopecontent>
+                    </c>
+                    <c id="c_097f0684dc17aa55ddfc52b1eb6a016b" level="file">
+                        <did>
+                            <unittitle>ITC Benguiat</unittitle>
+                            <unitdate normal="1973/1983">1973 - 1983</unitdate>
+                        </did>
+                        <scopecontent>
+                            <list>
+                                <item> ITC Benguiat Regular &amp; Light, Roman &amp; Italics Negatives</item>
+                                <item> ITC Benguiat Book, Roman &amp; Italics Negatives</item>
+                                <item>ITC Benguiat Book Condensed, Roman &amp; Italics Negatives</item>
+                                <item>ITC Benguiat Medium, Roman &amp; Italics Negatives</item>
+                                <item> ITC Benguiat Medium Condensed, Roman &amp; Italics Negatives</item>
+                                <item>ITC Benguiat Bold, Roman &amp; Italics Negatives</item>
+                                <item>ITC Benguiat Bold Condensed, Roman &amp; Italics Negatives</item>
+                                <item>ITC Benguiat Paste-Ups</item>
+                            </list>
+                        </scopecontent>
+                    </c>
+                    <c id="c_2839e002acbd8d9c182917c9e41ed0ad" level="file">
+                        <did>
+                            <unittitle>ITC Benguiat Gothic</unittitle>
+                            <unitdate normal="1974/1984">1974 - 1984</unitdate>
+                        </did>
+                        <scopecontent>
+                            <list>
+                                <item>ITC Benguiat Gothic Book &amp; Light Negatives</item>
+                                <item>ITC Benguiat Gothic Paste-Ups</item>
+                                <item>ITC Benguiat Gothic Type Specimens</item>
+                            </list>
+                        </scopecontent>
+                    </c>
+                    <c id="c_8c3437573575bb1e43b5402ff8d10fe8" level="file">
+                        <did>
+                            <unittitle>ITC Bentley</unittitle>
+                            <unitdate normal="1984">1984</unitdate>
+                        </did>
+                        <scopecontent>
+                            <list>
+                                <item> ITC Bentley Negatives &amp; Transparencies</item>
+                                <item> ITC Bentley Type Specimens</item>
+                            </list>
+                        </scopecontent>
+                    </c>
+                    <c id="c_9e825e982437f1076bf22361ca81bf3a" level="file">
+                        <did>
+                            <unittitle>ITC Bookman</unittitle>
+                            <unitdate normal="1970/1980">1970 - 1980</unitdate>
+                        </did>
+                        <scopecontent>
+                            <list>
+                                <item> ITC Bookman Negatives</item>
+                                <item>ITC Bookman Light, Roman &amp; Italics Negatives</item>
+                                <item>ITC Bookman Demi &amp; Medium, Roman &amp; Italics Negatives</item>
+                                <item>ITC Bookman Bold, Roman &amp; Italics Negatives</item>
+                                <item>ITC Bookman Outline &amp; Contour, Negatives</item>
+                                <item>ITC Bookman Outline &amp; Contour, Paste-Ups</item>
+                            </list>
+                        </scopecontent>
+                    </c>
+                    <c id="c_4e15dff32363aaa1dc84b4ef936c8425" level="file">
+                        <did>
+                            <unittitle>Catalana</unittitle>
+                            <unitdate normal="1965/1995">1965 - 1995</unitdate>
+                        </did>
+                        <scopecontent>
+                            <list>
+                                <item>Catalana Book, Roman &amp; Italics Negatives</item>
+                                <item>Catalana Bold, Roman &amp; Italics, Second Weight Negatives</item>
+                                <item>Catalana Black, Roman &amp; Italics Negatives</item>
+                                <item>Catalana Miscellanous Negatives</item>
+                                <item> Catalana Type Specimens</item>
+                            </list>
+                        </scopecontent>
+                    </c>
+                    <c id="c_ae4acb8e8db377dcc2f20a1f4805af02" level="file">
+                        <did>
+                            <unittitle>ITC Century Hand-Tooled Masters, Roman &amp; Italics Negatives</unittitle>
+                            <unitdate normal="1988/1995">1988 - 1995</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_374c4e7bd9651f1e4640519a7088d7a8" level="file">
+                        <did>
+                            <unittitle>ITC Cheltenham Hand-Tooled Masters, Roman &amp; Heavy Italics Negatives</unittitle>
+                            <unitdate normal="1988/1995">1988 - 1995</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_68cef5f4c558cb7a5ea6394699330b29" level="file">
+                        <did>
+                            <unittitle>Congressional</unittitle>
+                            <unitdate normal="1955/1995">1955 - 1995</unitdate>
+                        </did>
+                        <scopecontent>
+                            <list>
+                                <item>Congressional First Weight Condensed Negatives</item>
+                                <item> Congressional First Weight Heavy Thins Condensed Negatives</item>
+                                <item>Congressional Second Weight Heavy Thins Negatives</item>
+                            </list>
+                        </scopecontent>
+                    </c>
+                    <c id="c_b51d08f6b2327e49020f62056d2c4c68" level="file">
+                        <did>
+                            <unittitle>ITC Edwardian Script</unittitle>
+                            <unitdate normal="1989/1999">1989 - 1999</unitdate>
+                        </did>
+                        <scopecontent>
+                            <list>
+                                <item>ITC Edwardian Regular Negatives</item>
+                                <item>ITC Edwardian Regular Ball Negatives</item>
+                                <item> ITC Edwardian Light &amp; Heavy Simple Negatives</item>
+                                <item>ITC Edwardian Heavy Negatives</item>
+                                <item>ITC Edwardian Heavy Ball Negatives</item>
+                                <item>ITC Edwardian, Miscellaneous Single Character Negatives</item>
+                                <item>Edwardian script sketches &amp; photocopies, circa 1994 , 1989 - 1999</item>
+                            </list>
+                        </scopecontent>
+                    </c>
+                    <c id="c_300e9184d1b44cd9dcc8b3d359c565e6" level="file">
+                        <did>
+                            <unittitle>Egizanu Negatives &amp; Type Specimens</unittitle>
+                            <unitdate normal="1982/1992">1982 - 1992</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_f2186372b631b18d9caee0cb3ac37b8c" level="file">
+                        <did>
+                            <unittitle>ITC Garamond Hand-Tooled Masters, Roman &amp; Bold Italics Negatives</unittitle>
+                            <unitdate normal="1988/1995">1988 - 1995</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_9dff9d4c7c84bc906ce78827df3b56ce" level="file">
+                        <did>
+                            <unittitle>Jackson</unittitle>
+                            <unitdate certainty="approximate">undated</unitdate>
+                        </did>
+                        <scopecontent>
+                            <list>
+                                <item>Jackson Negatives</item>
+                                <item>Jackson Sketches</item>
+                            </list>
+                        </scopecontent>
+                    </c>
+                    <c id="c_5350e12f8eba893122b5bd28cc91ff88" level="file">
+                        <did>
+                            <unittitle>ITC Modern No. 216</unittitle>
+                            <unitdate normal="1977/1987">1977 - 1987</unitdate>
+                        </did>
+                        <scopecontent>
+                            <list>
+                                <item>ITC Modern No. 216 Negatives</item>
+                                <item> ITC Modern No. 216 Type Specimens</item>
+                            </list>
+                        </scopecontent>
+                    </c>
+                    <c id="c_f59e1332a5533ec6f9c8a2e04270fef0" level="file">
+                        <did>
+                            <unittitle>ITC Panache</unittitle>
+                            <unitdate normal="1983/1993">1983 - 1993</unitdate>
+                        </did>
+                        <scopecontent>
+                            <list>
+                                <item>ITC Panache Negatives</item>
+                                <item> ITC Panache Book, Roman &amp; Italics Negatives</item>
+                                <item>ITC Panache Heavy, Roman &amp; Italics Negatives</item>
+                                <item> ITC Panache Italic Masters Negatives</item>
+                                <item>ITC Panache Type Specimens</item>
+                            </list>
+                        </scopecontent>
+                    </c>
+                    <c id="c_3de8b7eeaba08b856eca0a4890f68ca6" level="file">
+                        <did>
+                            <unittitle>Presidential</unittitle>
+                            <unitdate normal="1960/1990">1960 - 1990</unitdate>
+                        </did>
+                        <scopecontent>
+                            <list>
+                                <item>Presidential First Weight Hairline Thins Negatives</item>
+                                <item>Presidential First Weight Heavy Thins Negatives</item>
+                                <item>Presidential Second Weight Hairline Thins Negatives</item>
+                                <item>Presidential Second Weight Heavy Thins Negatives</item>
+                                <item>Presidential Second Weight Condensed Negatives</item>
+                                <item>Presidential Third Weight Hairline Thins Negatives</item>
+                                <item>Presidential Third Weight Heavy Thins Negatives</item>
+                            </list>
+                        </scopecontent>
+                    </c>
+                    <c id="c_0697f97aff90f275eaac9d6e0abdff4f" level="file">
+                        <did>
+                            <unittitle>Souvenir Unpublished Weight Sketches</unittitle>
+                            <unitdate normal="1965/1975">1965 - 1975</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_05aa43102a062101ac04d85cc0b31d0a" level="file">
+                        <did>
+                            <unittitle>Spectra, ITC Tiffany, Miscellaneous Types, Negatives</unittitle>
+                            <unitdate certainty="approximate">circa 1974</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_77712bafd08a59e0f4fee1aac59024f7" level="file">
+                        <did>
+                            <unittitle>Spencerian Original Drawings</unittitle>
+                            <unitdate certainty="approximate">undated</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_bd38238504d3c4e21c2ad61fd35fed97" level="subseries">
+                    <did>
+                        <unittitle>Type Specimens</unittitle>
+                        <unitdate normal="1964/1988">1964 - 1988</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="c_8d21722426686cc9692702c26e9c4a25" level="item">
+                <did>
+                    <unittitle>Ed Benguiat signed T-Square</unittitle>
+                    <unitdate certainty="approximate">1960</unitdate>
+                </did>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

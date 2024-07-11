@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nrri">nrri_nrri0002</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Jeannette Klute collection </titleproper>
+                <author>Becky Simmons</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2018-02-22">February 22, 2018</date>
+                <publisher>Rochester Institute of Technology</publisher>
+                <address>
+                    <addressline>RIT Libraries</addressline>
+                    <addressline>90 Lomb Memorial Drive</addressline>
+                    <addressline>Rochester, NY 14623</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nrri.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Jeannette Klute collection</unittitle>
+            <unitdate normal="1949/2005" type="inclusive">1949 - 2005</unitdate>
+            <abstract>The Jeannette Klute collection contains photographs, matrices and papers, including correspondence and published articles that document her work photographing and making dye transfer photographs. During a long career in the research labs at Eastman Kodak Company she tested and refined the difficult process and applied it to her own artistic work. Inspired by nature, Klute photographed plants in the Bristol, New York area as well as New England. Her series of dye transfer prints entitled Woodland Portraits received national attention in the 1950s and 60s.</abstract>
+            <physdesc>
+                <extent>18.5 linear feet</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <persname>Klute, Jeannette</persname>
+            </origination>
+            <repository>
+                <corpname>RIT Archive Collections</corpname>
+            </repository>
+        </did>
+        <accessrestrict>
+            <p>This collection is open to researchers.</p>
+        </accessrestrict>
+        <bioghist>
+            <p>Jeannette Klute (1918-2009) was born in 1918 in Rochester, N.Y. She graduated from high school in 1936 and attended the Rochester Athenaeum and Mechanics (later renamed RIT), where she studied photographic technology. She later attended the University of Rochester, where she graduated with a B.S. degree in general studies. Shortly after starting at RIT, she was hired at Eastman Kodak Company, where within a short time she transferred to the Research Laboratories. By 1945 she was head of the Visual Research Studio of the Color Control Division. Her efforts were mainly directed on testing and refining the dye transfer process and materials, which had been recently introduced. She eventually achieved notoriety for her experiments, and many photographers visited the labs at Kodak to learn about her efforts. She also worked for many years as photographic illustrator for world renowned Eastman Kodak physicist Ralph M. Evans, and illustrated many of his books. She retired from Kodak in 1982, having moved up the ranks to manage the Photographic Technology Studio in 1974. </p>
+            <p>She grew into an expert at the dye transfer process through extensive experimentation while pursuing her own photographic vision. Always inspired by nature as well as environmentally aware, Klute took her camera outdoors to photograph in the local Bristol, New York area. She chose as her subject individual wild flowers and plants, carrying a large format camera into nature to capture them in situ. She used a shallow depth of focus, which blurred the background, and literally brought the focus on to the plant. The photographs were accomplished without special lighting, using only white cards to bounce the natural light to accent the image. Plants were never dug up, and great pains were taken to not disturb the natural environment. Always interested in experimentation, she worked with her lab supervisor Dorothea Peterson to develop a process they named &#x201C;derivations&#x201D;. For this experimental process they used modified brightness scales and other photographic based variables to produce unusual effects of saturated color and line. </p>
+            <p>By 1950, she had garnered national attention for the artistry of her color saturated dye transfer photographs. Her work was featured in important exhibitions of the 1950s, including Edward Steichen&#x2019;s 1950 exhibition All Color Photography at the Museum of Modern Art and the landmark exhibition Women of Photography held at the San Francisco Museum of Art and Photography in the Fine Arts &#x2013;II, a juried invitational at the Metropolitan Museum of Art. The Smithsonian circulated an exhibit of her works, Pictorial Photographs, an exhibition of Miss Jeannette Klute, nationally and works made it into several important international exhibits. The editor of the Fanny Farmer Cook Book invited Klute to illustrate the newest edition of the book. In 1952 Little Brown and Co. published Woodland Portraits, a portfolio of 50 color plates reproducing her dye transfer plant images. She also produced a highly regarded series of tide-pool studies that was exhibited nationally, again using the dye transfer process.</p>
+            <p>After her retirement she took up painting, continuing to look to nature for her subjects and creating semi-abstract works exploring color and form. She died in 2009.After her retirement she took up painting, continuing to look to nature for her subjects and creating semi-abstract works exploring color and form. She died in 2009.</p>
+        </bioghist>
+        <controlaccess>
+            <genreform authfilenumber="300138239" source="aat">nature photography</genreform>
+            <subject>Photographers -- New York (State) -- Rochester</subject>
+            <subject>Wild flowers -- New York (State) -- Pictorial works </subject>
+            <subject> Photographs</subject>
+            <genreform>Papers (document genres)</genreform>
+            <genreform>Clippings (information artifacts)</genreform>
+            <subject>Women photographers -- New York (State) -- Rochester</subject>
+            <subject>Photography of plants -- New York (State)</subject>
+        </controlaccess>
+        <scopecontent>
+            <p>The Jeannette Klute collection contains photographs, print matrices correspondence, newspaper and magazine clippings and ephemera related to Klute's career as a photographer and Kodak employee specializing in the dye transfer process.</p>
+        </scopecontent>
+        <userestrict>
+            
+        </userestrict>
+    </archdesc>
+</ead>
